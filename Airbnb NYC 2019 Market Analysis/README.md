@@ -3,8 +3,18 @@
 ## [Read Full Blog Here @Medium.com](https://medium.com/@kshitijachilbule2/analyzing-the-nyc-airbnb-market-using-python-5692b1f5a3e1)
 
 ## Table of Contents
-- [Project Overview](projectoverview)
-- [Summary of Insights](summaryofinsights)
+- [Project Overview](#project-overview)
+- [Dataset Description](#dataset-description)
+- [Tools Used](#tools-used)
+- [Summary of Insights](#summary-of-insights)
+- [Let's Connect](#lets-connect)
+
+### Project Overview
+
+### Dataset Description
+
+### Tools Used
+  
 ## Summary of Insights
 We analyzed the top 10 hosts to identify the one with the most property listings on Airbnb. Our findings show that Michael holds the top spot with 417 listings, making him the host with the highest number of properties. He is followed by David, who has the second-highest number of listings at 403. Additionally, our data reveals that 5,154 hosts have more than one listing on Airbnb.
 
@@ -19,3 +29,5 @@ The Airbnb NYC listings primarily consist of three room categories: Private room
 According to the dataset, there are a total of 10,052 property listings on Airbnb that have not received a single review. This means that these listings have either not been booked by guests or, if they have been, no feedback has been provided by those who stayed. This lack of reviews could impact the visibility and attractiveness of these listings to potential guests, as reviews often play a significant role in helping users decide on accommodations.
 
 On average, Airbnb listings in this dataset require a minimum stay of 7 nights. This indicates that, generally, hosts prefer longer bookings, possibly to reduce the frequency of turnover and related maintenance tasks.
+
+### Let's Connect
